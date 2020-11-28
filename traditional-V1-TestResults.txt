@@ -1,0 +1,14 @@
+Task: 1, Test Name: Profile icon is displayed, DOM Id: A__accesslink__56, Viewport: 1200x700, Device: Laptop, Browser: Firefox, Status: Pass
+Task: 1, Test Name: Cart icon is displayed, DOM Id: A__cartbt__49, Viewport: 1200x700, Device: Laptop, Browser: Firefox, Status: Pass
+Task: 1, Test Name: Wishlist icon is displayed, DOM Id: A__wishlist__52, Viewport: 1200x700, Device: Laptop, Browser: Firefox, Status: Pass
+Task: 1, Test Name: Grid view icon is displayed, DOM Id: I__tiviewgrid__202, Viewport: 1200x700, Device: Laptop, Browser: Firefox, Status: Pass
+Task: 1, Test Name: List view icon is displayed, DOM Id: I__tiviewlist__204, Viewport: 1200x700, Device: Laptop, Browser: Firefox, Status: Pass
+Task: 1, Test Name: Search field is displayed, DOM Id: INPUTtext____42, Viewport: 1200x700, Device: Laptop, Browser: Firefox, Status: Pass
+Task: 1, Test Name: Filter sidebar is displayed, DOM Id: filter_col, Viewport: 1200x700, Device: Laptop, Browser: Firefox, Status: Pass
+Task: 1, Test Name: Filters icon is not displayed, DOM Id: A__openfilter__206, Viewport: 1200x700, Device: Laptop, Browser: Firefox, Status: Pass
+Task: 3, Test Name: Product name is correct, DOM Id: shoe_name, Viewport: 1200x700, Device: Laptop, Browser: Firefox, Status: Pass
+Task: 3, Test Name: Product old price is correct, DOM Id: old_price, Viewport: 1200x700, Device: Laptop, Browser: Firefox, Status: Pass
+Task: 3, Test Name: Product new price is correct, DOM Id: new_price, Viewport: 1200x700, Device: Laptop, Browser: Firefox, Status: Pass
+Task: 3, Test Name: Product discount is correct, DOM Id: discount, Viewport: 1200x700, Device: Laptop, Browser: Firefox, Status: Pass
+Task: 3, Test Name: Product description is correct, DOM Id: P____83, Viewport: 1200x700, Device: Laptop, Browser: Firefox, Status: Pass
+Task: 2, Test Name: Filter results' count is 2, DOM Id: grid_item, Viewport: 1200x700, Device: Laptop, Browser: Firefox, Status: Pass
